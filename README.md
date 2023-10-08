@@ -76,11 +76,13 @@ Organize your findings, insights, and recommendations in a structured report.
 Ensure clarity and simplicity in conveying complex data insights.
 
 ## Transformed Data
+[Download Transformed data](https://docs.google.com/spreadsheets/d/1UogJZ6YHSahmBy0IGEtoiGif7lBEI1kNa5jBA0sl-80/edit?usp=sharing).
 
-[Transformed data](#).
+## Zipped Fact Tables
+[Download Fact Tables](https://drive.google.com/file/d/1tjW7aoDntIpJ9-JUm7mHqbmQzeg_DGsJ/view?usp=sharing).
 
 ## Full report
-[Social Media Analysis report](#).
+[Playhouse Social Media Analytic Visualization report](https://drive.google.com/file/d/1COLV9zfWKqC75mQyHVitKtUPGCyJXPGP/view?usp=sharing).
 
 ## Visualization
-[Visualization Report](#).
+[Visualization Report](https://drive.google.com/file/d/1gQ_RoWpYPFc3pRFAe_9sdCX7OPDOTpIq/view?usp=sharing).
