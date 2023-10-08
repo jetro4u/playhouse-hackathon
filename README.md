@@ -1,7 +1,5 @@
 # Overview
-Your mission? To decode a treasure trove of social media data for one of our high-profile clients and transform it into game-changing insights.
-
-In a rare move, we're handing you the keys to a vault of exclusive social media data to let you dig deep, get creative, and strike gold with actionable insights that could redefine the future of digital marketing.  This isn't just a hackathon; it's your chance to shape the future of digital engagement. 🚀
+This "Hack the Feed" hackathon is a showdown to decode a treasure trove of social media data and create a comprehensive and reproducible report detailing my findings.
 
 ## Key Deliverables:
 Participants are expected to:
@@ -23,14 +21,6 @@ Clarity and effectiveness in conveying findings in writing and visual form.
 
 Depth of Analysis:
 How thoroughly the data has been explored and understood.
-
-## Rules:
-Participants must sign and respect the confidentiality agreement regarding the data provided.
-Data must not be used for purposes outside of this hackathon.
-All analysis should be original and free from plagiarism.
-Submissions after the deadline will not be considered.
-
-Playhouse Communication Ltd. is eager to see the innovative solutions that you will bring to the table. This hackathon is not just a competition but an opportunity to gain subsequent employment and shape the future of digital marketing in Nigeria.
 
 # 👣 Process
 ## Data Familiarization: 
@@ -71,9 +61,10 @@ Use graphs, charts, and other visualisation tools to make your findings easily d
 Ensure that visualisations are clear and can be understood by someone without a technical background.
 Provide a shareable link to the visualisation
 
-## Report Compilation: 
-Organize your findings, insights, and recommendations in a structured report.
-Ensure clarity and simplicity in conveying complex data insights.
+## Outcomes: 
+At the end of the exercise, I am able to create a transformed data out of the raw data. 
+I created a comprehensive and reproducible report detailing my findings.
+I created a simple and engaging visualization of my results & analysis.
 
 ## Transformed Data
 [Download Transformed data](https://docs.google.com/spreadsheets/d/1UogJZ6YHSahmBy0IGEtoiGif7lBEI1kNa5jBA0sl-80/edit?usp=sharing).
