@@ -73,7 +73,7 @@ I created a simple and engaging visualization of my results & analysis.
 [Download Fact Tables](https://drive.google.com/file/d/1tjW7aoDntIpJ9-JUm7mHqbmQzeg_DGsJ/view?usp=sharing).
 
 ## Full report
-[Playhouse Social Media Analytic Visualization report](https://drive.google.com/file/d/1COLV9zfWKqC75mQyHVitKtUPGCyJXPGP/view?usp=sharing).
+[Playhouse Social Media Analytic Visualization report](https://drive.google.com/file/d/1gQ_RoWpYPFc3pRFAe_9sdCX7OPDOTpIq/view?usp=sharing).
 
 ## Visualization
 [Visualization Report](https://drive.google.com/file/d/1gQ_RoWpYPFc3pRFAe_9sdCX7OPDOTpIq/view?usp=sharing).
